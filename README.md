@@ -1,9 +1,10 @@
-# git-course
-for fcai cairo uni
+#Financial calculating system
+#Youssef Tarek Abo El Helqan 
+#Mostafa Atef ElGizawy 
+#20236122
+#20236095
+#Group C
+#S12
+@Bo2
 
 
-
-##project notes
-organizing corporate accounts
-youssef tarek
-mostafa atef
